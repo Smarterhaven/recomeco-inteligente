@@ -1,21 +1,25 @@
-SUBA ESTES ARQUIVOS NA RAIZ DO REPOSITÓRIO DO GITHUB:
+RECOMEÇO INTELIGENTE — NOVA LANDING PAGE
 
-- vsl.html
+Este pacote é para um REPOSITÓRIO NOVO e independente do quiz.
+
+Suba TODOS estes arquivos na RAIZ do novo repositório:
+- index.html
 - hero-postits.png
 - paper-bg.png
 - product-kit.png
 - closing-woman.png
 - vsl-reference-poster.png
-
-A página usa também os arquivos que já existem na raiz do projeto:
 - vsl.mp4
 
-Depois de publicar, a página será:
-https://smarterhaven.github.io/recomeco-inteligente-quiz/vsl.html
+No GitHub Pages:
+Settings > Pages > Deploy from a branch > main > /(root)
 
-O HTML já contém:
-- Meta Pixel 467123057258455
-- VSLStart / VSLComplete / OfferView / InitiateCheckout
-- preservação de parâmetros UTM no checkout
-- checkout Hotmart
-- popup LANÇAMENTO (30% OFF, R$46,90)
+A página abrirá diretamente na URL principal do novo GitHub Pages,
+sem /vsl.html, porque o arquivo principal agora se chama index.html.
+
+IMPORTANTE:
+Esta página não depende do repositório antigo do quiz.
+Pixel Meta, checkout Hotmart, UTMs e popup LANÇAMENTO já estão no index.html.
+
+Quando a nova VSL emocional ficar pronta, basta substituir vsl.mp4
+mantendo exatamente o mesmo nome.
